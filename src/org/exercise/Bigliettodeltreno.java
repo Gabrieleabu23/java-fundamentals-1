@@ -2,7 +2,7 @@ package org.exercise;
 
 import java.util.Scanner;
 
-public class Biglietto_del_treno {
+public class Bigliettodeltreno {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int age, totalKm;

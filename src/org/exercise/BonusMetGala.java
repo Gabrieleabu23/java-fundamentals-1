@@ -2,7 +2,7 @@ package org.exercise;
 
 import java.util.Scanner;
 
-public class Bonus_Met_Gala {
+public class BonusMetGala {
     public static void main(String[] args) {
         String[] invitati = {"Jennifer Lopez", "Zendaya", "Chris Hemsworth", "Bad Bunny", "Cara Delevingne", "Kendall Jenner", "Uma Thurman", "Damiano David", "Luca Guadagnino"};
         Scanner scanner = new Scanner(System.in);

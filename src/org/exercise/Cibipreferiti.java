@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 
-public class Cibi_Preferiti {
+public class Cibipreferiti {
     public static void main(String[] args) {
         int numberFoods ;
         Scanner scanner = new Scanner(System.in);
